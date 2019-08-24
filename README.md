@@ -1,0 +1,1 @@
+The whole thing here is managing change on our SQL extracts.  We may actually want several folders by integration or we may want to keep it simple.  Thsi is just some quick notions.
